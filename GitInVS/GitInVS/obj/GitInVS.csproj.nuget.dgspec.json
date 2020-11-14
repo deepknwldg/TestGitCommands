@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Рушан\\Desktop\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj": {}
+    "C:\\Users\\Qwert\\RiderProjects\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Рушан\\Desktop\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj": {
+    "C:\\Users\\Qwert\\RiderProjects\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Рушан\\Desktop\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj",
+        "projectUniqueName": "C:\\Users\\Qwert\\RiderProjects\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj",
         "projectName": "GitInVS",
-        "projectPath": "C:\\Users\\Рушан\\Desktop\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj",
-        "packagesPath": "C:\\Users\\Рушан\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Рушан\\Desktop\\TestGitCommands\\GitInVS\\GitInVS\\obj\\",
+        "projectPath": "C:\\Users\\Qwert\\RiderProjects\\TestGitCommands\\GitInVS\\GitInVS\\GitInVS.csproj",
+        "packagesPath": "C:\\Users\\Qwert\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Qwert\\RiderProjects\\TestGitCommands\\GitInVS\\GitInVS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Рушан\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Qwert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

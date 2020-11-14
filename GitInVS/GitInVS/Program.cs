@@ -7,6 +7,7 @@ namespace GitInVS
 		static void Print()
 		{
 			Console.WriteLine("print");
+			Console.WriteLine("Iam from Rider");
 		}
 		
 		static void Main(string[] args)

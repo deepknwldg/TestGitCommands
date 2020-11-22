@@ -20,5 +20,10 @@ namespace GitInVS
 			Console.WriteLine("Hello World!");
 			Console.WriteLine("Welcome home");
 		}
+
+		static void show()
+		{
+
+		}
 	}
 }

@@ -30,5 +30,10 @@ namespace GitInVS
 		{
 
 		}
+
+		static void rebase()
+		{
+
+		}
 	}
 }

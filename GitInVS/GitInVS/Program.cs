@@ -17,7 +17,7 @@ namespace GitInVS
 
 		static void ShowFromMaster()
 		{
-
+			Console.Write("ShowFromMaster");
 		}
 		
 		static void Main(string[] args)

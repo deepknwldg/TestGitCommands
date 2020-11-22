@@ -14,6 +14,11 @@ namespace GitInVS
 		{
 
 		}
+
+		static void ShowFromMaster()
+		{
+
+		}
 		
 		static void Main(string[] args)
 		{

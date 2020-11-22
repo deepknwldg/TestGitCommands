@@ -12,7 +12,7 @@ namespace GitInVS
 
 		static void Show()
 		{
-
+			Console.Write("show");
 		}
 
 		static void ShowFromMaster()

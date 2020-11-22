@@ -9,6 +9,11 @@ namespace GitInVS
 			Console.WriteLine("print");
 			Console.WriteLine("Iam from Rider");
 		}
+
+		static void ShowFromMaster()
+		{
+
+		}
 		
 		static void Main(string[] args)
 		{

@@ -3,3 +3,4 @@ add second commit
 add third commit
 conflict 
 sdsgdsg
+newmaster

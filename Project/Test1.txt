@@ -4,3 +4,4 @@ add third commit
 conflict 
 sdsgdsg
 newmaster
+fix

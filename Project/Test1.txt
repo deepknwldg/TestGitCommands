@@ -1,6 +1,8 @@
 create my first branch
 add second commit
-add third commit
+add third commitqwqwwq
+qwqwwqqw
+
 conflict 
 sdsgdsg
 newmaster

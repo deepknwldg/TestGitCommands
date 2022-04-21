@@ -1,4 +1,3 @@
-Тест - удаление секции name из --global gitconfig
-Тест2 - изменеие значения в секции user.email
-Тест3 - удаление ветки, как отобразиться в истории.
-Тест4 - Удаление ветки после мержа
+git remote add origin https://[USERNAME]:[NEW TOKEN]@github.com/[USERNAME]/[REPO].git
+
+git remote set-url origin https://[USERNAME]:[NEW TOKEN]@github.com/[USERNAME]/[REPO].git
